@@ -1,6 +1,6 @@
 # Dotfiles
 
-*Important*: Create alias `config=git --git-dir=$HOME/.dotfiles --work-tree=$HOME
+*Important*: Create alias `config=git --git-dir=$HOME/.dotfiles --work-tree=$HOME`
 
 ## Initial Setup
 
